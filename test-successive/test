@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>思维导图链接示例</title>
+  <style>
+    body {
+      font-family: "微软雅黑", sans-serif;
+      margin: 50px;
+    }
+    .link {
+      color: blue;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>思维导图节点示例</h2>
+  <p>点击下面的链接查看图片：</p>
+
+  <a class="link" href="file:///C:/Users/33085/Documents/WeChat%20Files/wxid_t6kpqiymwxhi22/FileStorage/Temp/053d763e7eee6941cf1d97f78a07119.jpg" target="_blank">
+    查看图片
+  </a>
+
+</body>
+</html>
